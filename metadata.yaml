@@ -1,0 +1,40 @@
+_repo: Pelts-and-palisades-The-story-of-fur-and-the-rivalry-for-pelts-in-early-America_68540
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Jones, Elmo
+    deathdate: 1971
+    gutenberg_agent_id: '54800'
+    url: http://www.gutenberg.org/2009/agents/54800
+creator:
+  author:
+    agent_name: Hale, Nathaniel C. (Nathaniel Claiborne)
+    alias: Hale, Nathaniel Claiborne
+    birthdate: 1903
+    deathdate: 1948
+    gutenberg_agent_id: '54819'
+    url: http://www.gutenberg.org/2009/agents/54819
+description: ''
+gutenberg_issued: '2022-07-17'
+identifiers:
+  gutenberg: '68540'
+  lccn: '59003948'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wu.89058622374
+pgterms:marc905: 20220215100039hale
+pgterms:marc906: '1959'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :The Deitz Press, Incorporated,1959.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fur trade -- United States'
+- !lcc 'E186'
+- !lcsh 'Fur trade -- Canada'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775'
+- GITenberg
+title: 'Pelts and palisades: The story of fur and the rivalry for pelts in early America'
+url: http://www.gutenberg.org/ebooks/68540
